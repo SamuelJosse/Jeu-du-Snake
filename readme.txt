@@ -1,7 +1,7 @@
 Samuel JOSSE
 
 ## Information
-    - TP sur le snake
+    - Projet sur le jeu Snake
 
 
 ## Fabriqué avec
